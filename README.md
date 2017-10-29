@@ -1,5 +1,11 @@
 **Challenge - native CSV to SMS and Mail (dummy)** 
 
+**Short Description**
+* The app is native java without any library
+* the app receives 1-N paths to CSV file(s)
+* the app will pretend to send sms and/or mail to the valid customer
+
+**Original Description**
 We would like you to solve the following coding challenge. Please do so while adhering to the **restrictions** given! 
 We expect that it takes you a couple of hours to complete the task. Then take at least 30 minutes and write down 
 points that you would improve on if given more time. 
@@ -22,7 +28,7 @@ Please extend, refactor and change the code to **improve** it and add the follow
 - file may contain 1 million accounts
 - not all accounts are valid
 
-**CodingChallenge aka "LetterMan"**:
+**CodingChallenge**:
 - I was not sure if you want to call the applications main class with the file parameter so i kept the functionality there
 - The repository is removed, as i don"t know the context of it and how much error handling you need
 - So with more time i would get more question and over engineer this

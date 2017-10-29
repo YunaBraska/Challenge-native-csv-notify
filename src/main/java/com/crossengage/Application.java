@@ -25,6 +25,6 @@ public class Application {
                 System.err.println("Failed Users: " + failedUsers);
             }
         }
-        System.out.println("Letterman is done - Have a nice day");
+        System.out.println("LetterHero is done - Have a nice day");
     }
 }
